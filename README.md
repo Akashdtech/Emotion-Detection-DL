@@ -1,5 +1,5 @@
 # Emotion-Detection-DL
-This project implements a deep learning pipeline for Facial Emotion Recognition using the FER2013 dataset. The model classifies facial expressions into one of seven categories, leveraging convolutional neural networks (CNNs) for image-based emotion classification. Below is a summary of the code:
+This code incorporates a deep learning pipeline for Facial Emotion Recognition using the FER2013 dataset. The model classifies facial expressions into one of seven categories, leveraging convolutional neural networks (CNNs) for image-based emotion classification. Below is a summary of the code:
 
     Data Loading and Exploration:
         The dataset is loaded from the FER2013 CSV file.
